@@ -297,7 +297,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/saibandela)
 
 ## 🙏 Acknowledgments
 
